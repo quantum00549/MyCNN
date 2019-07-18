@@ -12,4 +12,5 @@
 
 更新记录</br>
 2019/07/12 加入模型固化和读取功能</br>
+2019/07/18 将mnist数据集存入TFRecord(见TFRecord_file.ipynb)</br>
 
