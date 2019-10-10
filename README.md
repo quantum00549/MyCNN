@@ -14,4 +14,7 @@
 2019/07/12 加入模型固化和读取功能</br>
 2019/07/18 将mnist数据集存入TFRecord(见TFRecord_file.ipynb)</br>
 2019/07/19 将训练数据存入多个文件，为多线程数据处理做准备，已在TFRecord_file.ipynb中更新</br>
-2019/10/10 弃用DNN_Essay.ipynb，改用DNN_Essay.py，随机梯度下降中，使用mnist数据集自带的迭代器抽取一个batch size的数据，并将准确率计算方法改为tf工具</br>
+2019/10/10 弃用DNN_Essay.ipynb，改用DNN_Essay.py，更新内容：</br>
+           随机梯度下降中，使用mnist数据集自带的迭代器抽取一个batch size的数据；</br>
+           将准确率计算方法改为tf工具。</br>
+
